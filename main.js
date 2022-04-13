@@ -38,5 +38,5 @@ function draw() {
     document.getElementById("font_size").innerHTML = difference;
     textSize(difference);
     fill('#ffc0cb');
-    text('Lisa', 200, 200);   
+    text('Lisa', 100, 250);   
 }
